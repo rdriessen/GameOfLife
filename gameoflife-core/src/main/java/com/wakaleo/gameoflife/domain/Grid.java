@@ -9,8 +9,6 @@ public class Grid {
     private static final int DEFAULT_COLUMN_COUNT = 3;
 
     private Cell[][] cells;
-    
-    // test
 
 
     private GridReader gridReader = new GridReader();
